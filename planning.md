@@ -8,7 +8,7 @@
  
 1. What task(s) or purpose(s) does a visitor bring to the site?
  
-1. Are the personas, tasks, and purposes described above the same for visitors to the site on mobiles, tablets, etc.?
+1. Are the personas, tasks, and purposes described above different for visitors to the site on mobiles, tablets, etc.?
  
 1. What websites do you like to use and why?
  
